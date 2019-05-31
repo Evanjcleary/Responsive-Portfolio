@@ -21,7 +21,7 @@
     padding: 10px 5px 5px 5px;
     float: left;
     text-align: center;
-    font-size: 20px;
+    font-size: 28px;
     font-weight: bold;
     /* word-wrap: break-word; */
   }
@@ -75,7 +75,7 @@
     background: white;
     margin: 5% 0% 0 5%;
     width: 900px;
-    padding: 30px;
+    padding: 5%;
     border-width: 1px;
     border-style: solid;
     border-color: #dddddd;
