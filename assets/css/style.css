@@ -309,11 +309,12 @@
 .imagecontainer1 {
   width: 80%;
   height: 250px;
-  background: url(https://picsum.photos/id/1003/1181/1772);
+  background: url(http://lorempixel.com/output/nightlife-q-c-200-200-10.jpg);
   float: left;
-  margin: 10px;
+  margin: 10px 0px 0px 10%;
   object-fit: fill;
-  padding: 0px 10% 0px 10%;
+  padding: 0px;
+  
 }
 
 
@@ -321,47 +322,50 @@
 .imagecontainer2 {
   width: 80%;
   height: 250px;
-  background: url(https://picsum.photos/id/1003/1181/1772);
+  background: url(http://lorempixel.com/output/nightlife-q-c-200-200-10.jpg);
   float: left;
-  margin: 10px;
+  margin: 10px 0px 0px 10%;
   object-fit: fill;
-  padding: 0px 10% 0px 10%;
 }
 
 
 .imagecontainer3 {
   width: 80%;
   height: 250px;
-  background: url(https://picsum.photos/id/1003/1181/1772);
+  background: url(http://lorempixel.com/output/nightlife-q-c-200-200-10.jpg);
   float: left;
-  margin: 10px;
+  margin: 10px 0px 0px 10%;
   object-fit: fill;
-  padding: 0px 10% 0px 10%;
 }
 
 
 .imagecontainer4 {
   width: 80%;
   height: 250px;
-  background: url(https://picsum.photos/id/1003/1181/1772);
+  background: url(http://lorempixel.com/output/nightlife-q-c-200-200-10.jpg);
   float: left;
-  margin: 10px;
+  margin: 10px 0px;
   object-fit: fill;
-  padding: 0px 10% 0px 10%;
+  margin: 10px 0px 0px 10%;
 }
 
 
 .imagecontainer5 {
-  width: 200px;
-  height: 175px;
+  width: 80%;
+  height: 250px;
   background: url(http://lorempixel.com/output/nightlife-q-c-200-200-10.jpg);
   float: left;
-  margin: 10px;
+  margin: 10px 0px 0px 10%;
   clear:both;
 }
 
 .outerbody {
   height: 2000px
+}
+
+.portfolio-img {
+  width: 100%;
+  margin-top: 50%;
 }
 
 }
